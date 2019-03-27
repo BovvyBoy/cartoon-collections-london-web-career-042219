@@ -8,7 +8,7 @@
 #end
 
 def long_planeteer_calls(short_words)
-  # Your code here
+  short_words == 4
 end
 
 def find_the_cheese# code an argument here
