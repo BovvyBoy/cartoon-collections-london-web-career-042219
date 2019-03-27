@@ -7,7 +7,7 @@
 #  planeteer_calls.map |planeteer_calls| planeteer_calls.capitalize(!)
 #end
 
-def long_planeteer_calls(short_words,assorted_words)
+def long_planeteer_calls(short_words)
   # Your code here
 end
 
